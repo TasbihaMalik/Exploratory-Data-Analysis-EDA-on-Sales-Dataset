@@ -403,7 +403,7 @@ I enjoy building professional portfolio projects that demonstrate practical anal
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/tasbiha-aslam-b940b9415/
+**https://www.linkedin.com/in/tasbiha-aslam-b940b9415/**
 ---
 
 🐙 **GitHub Portfolio**
