@@ -277,7 +277,7 @@ git clone https://github.com/TasbihaMalik/Exploratory-Data-Analysis-EDA-on-Sales
 ## Navigate into the Project
 
 ```bash
-cd <your-repository-name>
+cd Exploratory-Data-Analysis-EDA-on-Sales-Dataset
 ```
 
 ---
