@@ -397,7 +397,7 @@ I enjoy building professional portfolio projects that demonstrate practical anal
 
 📧 **Email**
 
-**--**
+**insightsanalyzers356@gmail.com**
 
 ---
 
